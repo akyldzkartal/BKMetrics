@@ -1,4 +1,5 @@
 const axios = require('axios');
+//axios puppeteer
 
 const API_URL = 'https://api.binance.com/api/v3'; //binance apisi buraya
 
